@@ -1,1 +1,1 @@
-L'objectif de ce projet est de coder un jeu d'échec fonctionnel utilisable par 2 joueurs.
+Création du jeu "morpion" jouable à deux joueurs avec une interface graphique faite avec tkinter.
