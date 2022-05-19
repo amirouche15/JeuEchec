@@ -1,1 +1,1 @@
-Création du jeu d'échec qui apparaitrait dans la console avec une possibilité de faire bouger les pièces appeles par leur initiale par chacun des joueurs chacun leur tours (possibilité d'indication des coups possibles par un assistant dans la console)
+Création du jeu "morpion" jouable à deux joueurs avec une interface graphique faite avec tkinter.
